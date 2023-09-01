@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Bandit Level 9 - Level 10.md",
+                "file": "retos-bandit/Bandit Level 6 - Level 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit Level 9 - Level 10.md",
+                "file": "retos-bandit/Bandit Level 6 - Level 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit Level 9 - Level 10.md",
+                "file": "retos-bandit/Bandit Level 6 - Level 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit Level 9 - Level 10.md"
+                "file": "retos-bandit/Bandit Level 6 - Level 7.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "7d69e231ea69041d",
   "lastOpenFiles": [
+    "retos-bandit/Bandit Level 9 - Level 10.md",
     "retos-bandit/Bandit Level 8 - Level 9.md",
     "retos-bandit/Bandit Level 7 - Level 8.md",
     "retos-bandit/Bandit Level 6 - Level 7.md",
@@ -157,7 +158,6 @@
     "retos-bandit/Bandit Level 2 - Level 3.md",
     "retos-bandit/Bandit Level 1 - Level 2.md",
     "retos-bandit/Bandit Level 0 - Level 1.md",
-    "retos-bandit/Bandit Level 9 - Level 10.md",
     "retos-bandit/Level 0.md",
     "retos-bandit/plantilla.md",
     "README.md",
