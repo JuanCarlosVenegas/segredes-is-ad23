@@ -11,8 +11,12 @@
             "id": "7d69e231ea69041d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Retos16-21/Bandit Level 16 - Level 17.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "retos-bandit/Retos16-21/Bandit Level 16 - Level 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "retos-bandit/Retos16-21/Bandit Level 16 - Level 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "retos-bandit/Retos16-21/Bandit Level 16 - Level 17.md"
+              }
             }
           }
         ]
@@ -140,13 +148,21 @@
   },
   "active": "7d69e231ea69041d",
   "lastOpenFiles": [
+    "retos-bandit/Retos16-21/Bandit Level 17 - Level 18.md",
+    "retos-bandit/Retos16-21/Bandit Level 16 - Level 17.md",
+    "retos-bandit/Retos16-21/Bandit Level 21 - Level 22.md",
+    "retos-bandit/Retos16-21/Bandit Level 20 - Level 21.md",
+    "retos-bandit/Retos16-21/Bandit Level 19 - Level 20.md",
+    "retos-bandit/Retos16-21/Bandit Level 18 - Level 19.md",
+    "retos-bandit/Retos10-15/Bandit Level 10 - Level 11.md",
+    "retos-bandit/plantilla.md",
+    "retos-bandit/Retos16-21",
     "retos-bandit/Bandit Level 15 - Level 16.md",
     "retos-bandit/Retos10-15/Bandit Level 15 - Level 16.md",
     "retos-bandit/Retos10-15/Bandit Level 14 - Level 15.md",
     "retos-bandit/Retos10-15/Bandit Level 13 - Level 14.md",
     "retos-bandit/Retos10-15/Bandit Level 12 - Level 13.md",
     "retos-bandit/Retos10-15/Bandit Level 11 - Level 12.md",
-    "retos-bandit/Retos10-15/Bandit Level 10 - Level 11.md",
     "retos-bandit/Retos10-15",
     "retos-bandit/Nueva carpeta",
     "retos-bandit/Retos0-9/Level 0.md",
@@ -163,13 +179,6 @@
     "retos-bandit/Retos0-9",
     "retos-bandit/Retos0-10",
     "retos-bandit/Bandit Level 14 - Level 15.md",
-    "retos-bandit/Bandit Level 13 - Level 14.md",
-    "retos-bandit/Bandit Level 12 - Level 13.md",
-    "retos-bandit/Bandit Level 11 - Level 12.md",
-    "retos-bandit/Bandit Level 10 - Level 11.md",
-    "retos-bandit/Bandit Level 9 - Level 10.md",
-    "retos-bandit/plantilla.md",
-    "retos-bandit/Level 0.md",
     "retos-bandit"
   ]
 }
