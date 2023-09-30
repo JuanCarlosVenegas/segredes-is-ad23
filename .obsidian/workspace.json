@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e8695ab487d093b",
+        "id": "5e58bceba4a9389a",
         "type": "tabs",
         "children": [
           {
-            "id": "7d54860e728e0224",
+            "id": "cc448a25287c6b16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Retos28-34/Bandit Level 33 - Level 34.md",
+                "file": "Primer-Examen-Parcial/parte3/7 Based.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Retos28-34/Bandit Level 33 - Level 34.md",
+                "file": "Primer-Examen-Parcial/parte3/7 Based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Retos28-34/Bandit Level 33 - Level 34.md",
+                "file": "Primer-Examen-Parcial/parte3/7 Based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Retos28-34/Bandit Level 33 - Level 34.md"
+                "file": "Primer-Examen-Parcial/parte3/7 Based.md"
               }
             }
           },
@@ -156,41 +156,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7d54860e728e0224",
+  "active": "cc448a25287c6b16",
   "lastOpenFiles": [
-    "retos-bandit/Retos28-34/Bandit Level 32 - Level 33.md",
-    "retos-bandit/Retos28-34/Bandit Level 31 - Level 32.md",
-    "retos-bandit/Retos28-34/Bandit Level 30 - Level 31.md",
-    "retos-bandit/Retos28-34/Bandit Level 29 - Level 30.md",
-    "retos-bandit/Retos28-34/Bandit Level 28 - Level 29.md",
-    "retos-bandit/Retos28-34/Bandit Level 33 - Level 34.md",
+    "Primer-Examen-Parcial/parte3/8 plumbing.md",
+    "Primer-Examen-Parcial/parte3/4 PW Crack 2.md",
+    "Primer-Examen-Parcial/parte3/5 PW Crack 3.md",
+    "Primer-Examen-Parcial/parte3/6 runme.py.md",
+    "Primer-Examen-Parcial/parte3/7 Based.md",
+    "Primer-Examen-Parcial/parte3/1 fixme2.py.md",
+    "Primer-Examen-Parcial/parte3/3 PW Crack 1.md",
+    "Primer-Examen-Parcial/parte3/2 Glitch Cat.md",
+    "Primer-Examen-Parcial/parte2/8 what's a net cat.md",
+    "Primer-Examen-Parcial/parte2/7 strings it.md",
+    "Primer-Examen-Parcial/parte2/6 fixme1.py.md",
+    "Primer-Examen-Parcial/parte2/5 First Grep.md",
+    "Primer-Examen-Parcial/parte2/4 convertme.py.md",
+    "Primer-Examen-Parcial/parte2/3 Codebook.md",
+    "Primer-Examen-Parcial/parte2/2 Bases.md",
+    "Primer-Examen-Parcial/parte2/1 - 2Warm.md",
+    "Primer-Examen-Parcial/parte1/8 Warmed Up.md",
+    "Primer-Examen-Parcial/parte1/7 Lets Warm Up.md",
+    "Primer-Examen-Parcial/parte1/6 Magikarp Ground Mission.md",
+    "Primer-Examen-Parcial/parte1/3 Nice netcat....md",
+    "Primer-Examen-Parcial/parte1/4 Static ain't always noise.md",
+    "Primer-Examen-Parcial/parte1/5 Tab, Tab, Attack.md",
+    "Primer-Examen-Parcial/parte1/2 Wave a flag.md",
     "retos-bandit/plantilla.md",
+    "Primer-Examen-Parcial/parte1/1 Obedient Cat.md",
+    "retos-bandit/Retos28-34/Bandit Level 33 - Level 34.md",
+    "Primer-Examen-Parcial/parte3",
+    "Primer-Examen-Parcial/parte2",
+    "Primer-Examen-Parcial/parte1",
+    "Primer-Examen-Parcial",
     "retos-bandit/Retos28-34",
-    "retos-bandit/Retos22-27/Bandit Level 27 - Level 28.md",
-    "retos-bandit/Retos22-27/Bandit Level 26 - Level 27.md",
-    "retos-bandit/Retos22-27/Bandit Level 25 - Level 26.md",
-    "retos-bandit/Retos22-27/Bandit Level 24 - Level 25.md",
-    "retos-bandit/Retos22-27/Bandit Level 23 - Level 24.md",
-    "retos-bandit/Retos22-27/Bandit Level 22 - Level 23.md",
-    "retos-bandit/Retos10-15/Bandit Level 10 - Level 11.md",
     "retos-bandit/Retos22-27",
-    "retos-bandit/Retos16-21/Bandit Level 17 - Level 18.md",
-    "retos-bandit/Retos16-21/Bandit Level 16 - Level 17.md",
-    "retos-bandit/Retos16-21/Bandit Level 21 - Level 22.md",
-    "retos-bandit/Retos16-21/Bandit Level 20 - Level 21.md",
-    "retos-bandit/Retos16-21/Bandit Level 19 - Level 20.md",
-    "retos-bandit/Retos16-21/Bandit Level 18 - Level 19.md",
     "retos-bandit/Retos16-21",
-    "retos-bandit/Bandit Level 15 - Level 16.md",
-    "retos-bandit/Retos10-15/Bandit Level 15 - Level 16.md",
-    "retos-bandit/Retos10-15/Bandit Level 14 - Level 15.md",
-    "retos-bandit/Retos10-15/Bandit Level 13 - Level 14.md",
-    "retos-bandit/Retos10-15/Bandit Level 12 - Level 13.md",
-    "retos-bandit/Retos10-15/Bandit Level 11 - Level 12.md",
     "retos-bandit/Retos10-15",
     "retos-bandit/Nueva carpeta",
-    "retos-bandit/Retos0-9",
-    "retos-bandit/Retos0-10",
-    "retos-bandit"
+    "retos-bandit/Retos0-9"
   ]
 }
