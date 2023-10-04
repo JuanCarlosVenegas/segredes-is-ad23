@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer-Examen-Parcial/parte3/7 Based.md",
+                "file": "picoCTF-web/6 picobrowser.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer-Examen-Parcial/parte3/7 Based.md",
+                "file": "picoCTF-web/6 picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer-Examen-Parcial/parte3/7 Based.md",
+                "file": "picoCTF-web/6 picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer-Examen-Parcial/parte3/7 Based.md"
+                "file": "picoCTF-web/6 picobrowser.md"
               }
             }
           },
@@ -158,11 +158,18 @@
   },
   "active": "cc448a25287c6b16",
   "lastOpenFiles": [
+    "picoCTF-web/5 Client-side-again.md",
+    "picoCTF-web/4 where are the robots.md",
+    "picoCTF-web/3 logon.md",
+    "picoCTF-web/2 dont-use-client-side.md",
+    "picoCTF-web/6 picobrowser.md",
+    "picoCTF-web/1 Insp3ct0r.md",
+    "Primer-Examen-Parcial/parte3/7 Based.md",
+    "picoCTF-web",
     "Primer-Examen-Parcial/parte3/8 plumbing.md",
     "Primer-Examen-Parcial/parte3/4 PW Crack 2.md",
     "Primer-Examen-Parcial/parte3/5 PW Crack 3.md",
     "Primer-Examen-Parcial/parte3/6 runme.py.md",
-    "Primer-Examen-Parcial/parte3/7 Based.md",
     "Primer-Examen-Parcial/parte3/1 fixme2.py.md",
     "Primer-Examen-Parcial/parte3/3 PW Crack 1.md",
     "Primer-Examen-Parcial/parte3/2 Glitch Cat.md",
@@ -178,12 +185,6 @@
     "Primer-Examen-Parcial/parte1/7 Lets Warm Up.md",
     "Primer-Examen-Parcial/parte1/6 Magikarp Ground Mission.md",
     "Primer-Examen-Parcial/parte1/3 Nice netcat....md",
-    "Primer-Examen-Parcial/parte1/4 Static ain't always noise.md",
-    "Primer-Examen-Parcial/parte1/5 Tab, Tab, Attack.md",
-    "Primer-Examen-Parcial/parte1/2 Wave a flag.md",
-    "retos-bandit/plantilla.md",
-    "Primer-Examen-Parcial/parte1/1 Obedient Cat.md",
-    "retos-bandit/Retos28-34/Bandit Level 33 - Level 34.md",
     "Primer-Examen-Parcial/parte3",
     "Primer-Examen-Parcial/parte2",
     "Primer-Examen-Parcial/parte1",
@@ -192,7 +193,6 @@
     "retos-bandit/Retos22-27",
     "retos-bandit/Retos16-21",
     "retos-bandit/Retos10-15",
-    "retos-bandit/Nueva carpeta",
-    "retos-bandit/Retos0-9"
+    "retos-bandit/Nueva carpeta"
   ]
 }
