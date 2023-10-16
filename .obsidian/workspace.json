@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaRed CTF 2/Discord.md",
+                "file": "picoCTF-web-3/3 Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaRed CTF 2/Discord.md",
+                "file": "picoCTF-web-3/3 Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaRed CTF 2/Discord.md",
+                "file": "picoCTF-web-3/3 Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaRed CTF 2/Discord.md"
+                "file": "picoCTF-web-3/3 Scavenger Hunt.md"
               }
             }
           },
@@ -156,15 +156,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6177ac55e4c3fc8e",
+  "active": "2686532d4458f3c8",
   "lastOpenFiles": [
+    "picoCTF-web-3/2 Cookies.md",
+    "picoCTF-web-3/3 Scavenger Hunt.md",
+    "picoCTF-web-3/1 GET aHEAD.md",
+    "picoCTF-web-2/1 Irish-Name-Repo 1.md",
+    "picoCTF-web-3",
     "Primer-Examen-Parcial/parte1/1 Obedient Cat.md",
     "MetaRed CTF 2/Discord.md",
     "picoCTF-web-2/3 Irish-Name-Repo 3.md",
     "MetaRed CTF 2",
     "picoCTF-web-2/4 JaWT Scratchpad.md",
     "picoCTF-web-2/2 Irish-Name-Repo 2.md",
-    "picoCTF-web-2/1 Irish-Name-Repo 1.md",
     "picoCTF-web/6 picobrowser.md",
     "picoCTF-web-2",
     "picoCTF-web/5 Client-side-again.md",
@@ -184,15 +188,11 @@
     "Primer-Examen-Parcial/parte2/8 what's a net cat.md",
     "Primer-Examen-Parcial/parte2/7 strings it.md",
     "Primer-Examen-Parcial/parte2/6 fixme1.py.md",
-    "Primer-Examen-Parcial/parte2/5 First Grep.md",
-    "Primer-Examen-Parcial/parte2/4 convertme.py.md",
-    "Primer-Examen-Parcial/parte2/3 Codebook.md",
     "Primer-Examen-Parcial/parte3",
     "Primer-Examen-Parcial/parte2",
     "Primer-Examen-Parcial/parte1",
     "Primer-Examen-Parcial",
     "retos-bandit/Retos28-34",
-    "retos-bandit/Retos22-27",
-    "retos-bandit/Retos16-21"
+    "retos-bandit/Retos22-27"
   ]
 }
