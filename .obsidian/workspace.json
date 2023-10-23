@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "25f9fdb44eade157",
+        "id": "90a992b217cc0b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d14f7faa949ad3",
+            "id": "6d508bdda261f568",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF-Forensic/WhatLiesWithin/5 What Lies Within.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-Forensic/WhatLiesWithin/5 What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-Forensic/WhatLiesWithin/5 What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-Forensic/WhatLiesWithin/5 What Lies Within.md"
+                "file": "picoCTF-Forensic2/sharkonwire2/5 shark on wire 2.md"
               }
             }
           },
@@ -156,46 +150,50 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d8d14f7faa949ad3",
+  "active": "6177ac55e4c3fc8e",
   "lastOpenFiles": [
+    "Forensic2/2 White Pages.md",
+    "Forensic2/5 shark on wire 2.md",
+    "Forensic2/1 m00nwalk.md",
+    "Forensic2/4 like1000.md",
+    "picoCTF-Forensic2/like1000/3 c0rrupt.md",
+    "Forensic2/3 c0rrupt.md",
+    "Forensic2",
+    "picoCTF-Forensic2/sharkonwire2/exp.py",
+    "picoCTF-Forensic2/sharkonwire2/5 shark on wire 2.md",
+    "picoCTF-Forensic2/like1000/4 like1000.md",
+    "picoCTF-Forensic2/sharkonwire2/capture.pcap",
+    "picoCTF-Forensic2/Sin título",
+    "picoCTF-Forensic2/sharkonwire2",
+    "picoCTF-Forensic2/like1000/flag.png",
+    "picoCTF-Forensic2/like1000/1.tar",
+    "picoCTF-Forensic2/like1000/2.tar",
+    "picoCTF-Forensic2/like1000/3.tar",
+    "picoCTF-Forensic2/like1000/4.tar",
+    "picoCTF-Forensic2/like1000/5.tar",
+    "picoCTF-Forensic2/c0rrupt/3 c0rrupt.md",
+    "picoCTF-Forensic2/whitepages/2 White Pages.md",
+    "picoCTF-Forensic2/m00nwalk/1 m00nwalk.md",
+    "picoCTF-Forensic2/m00nwalk/result.png",
+    "picoCTF-Forensic2/m00nwalk/opt/sstv/examples/m1.png",
+    "picoCTF-Forensic2/m00nwalk/opt/sstv/README.md",
+    "picoCTF-Forensic/WhatLiesWithin/5 What Lies Within.md",
     "picoCTF-Forensic/WhatLiesWithin/buildings.png",
     "picoCTF-Forensic/extensios/2 Extensios.md",
-    "picoCTF-Forensic/WhatLiesWithin",
     "picoCTF-Forensic/extensios/flag.png",
-    "picoCTF-Forensic/extensios/flag.txt",
-    "picoCTF-Forensic/extensios",
     "picoCTF-Forensic/sharkonwire/3 shark on wire 1.md",
-    "picoCTF-Forensic/sharkonwire/capture.pcap",
     "picoCTF-Forensic/someta/2 So Meta.md",
-    "picoCTF-Forensic/sharkonwire",
     "picoCTF-Forensic/gloeyofthegarden/1 Glory of the Garden.md",
     "picoCTF-Forensic/someta/pico_img.png",
-    "picoCTF-Forensic/someta",
     "picoCTF-Forensic/gloeyofthegarden/garden.jpg",
-    "picoCTF-Forensic/gloeyofthegarden",
     "picoCTF-web-2/4 JaWT Scratchpad.md",
     "picoCTF-web-2/3 Irish-Name-Repo 3.md",
-    "picoCTF-Forensic/WhatLiesWithin/5 What Lies Within.md",
-    "picoCTF-Forensic",
     "picoCTF-web-3/3 Scavenger Hunt.md",
     "picoCTF-web-3/2 Cookies.md",
     "picoCTF-web-3/1 GET aHEAD.md",
     "picoCTF-web-2/1 Irish-Name-Repo 1.md",
-    "picoCTF-web-3",
     "Primer-Examen-Parcial/parte1/1 Obedient Cat.md",
     "MetaRed CTF 2/Discord.md",
-    "MetaRed CTF 2",
-    "picoCTF-web-2/2 Irish-Name-Repo 2.md",
-    "picoCTF-web/6 picobrowser.md",
-    "picoCTF-web/5 Client-side-again.md",
-    "picoCTF-web/4 where are the robots.md",
-    "picoCTF-web/3 logon.md",
-    "picoCTF-web/2 dont-use-client-side.md",
-    "picoCTF-web/1 Insp3ct0r.md",
-    "Primer-Examen-Parcial/parte3/7 Based.md",
-    "Primer-Examen-Parcial/parte3/8 plumbing.md",
-    "Primer-Examen-Parcial/parte3/4 PW Crack 2.md",
-    "Primer-Examen-Parcial/parte3/5 PW Crack 3.md",
-    "Primer-Examen-Parcial/parte3/6 runme.py.md"
+    "picoCTF-web-2/2 Irish-Name-Repo 2.md"
   ]
 }
