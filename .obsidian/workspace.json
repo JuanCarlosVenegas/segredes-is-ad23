@@ -11,8 +11,12 @@
             "id": "6d508bdda261f568",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF-Forensic3/5 MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF-Forensic3/5 MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF-Forensic3/5 MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-Forensic2/sharkonwire2/5 shark on wire 2.md"
+                "file": "picoCTF-Forensic3/5 MacroHard WeakEdge.md"
               }
             }
           },
@@ -150,8 +156,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6177ac55e4c3fc8e",
+  "active": "6d508bdda261f568",
   "lastOpenFiles": [
+    "picoCTF-Forensic3/4 tunn3lv1s10n.md",
+    "picoCTF-Forensic3/5 MacroHard WeakEdge.md",
+    "picoCTF-Forensic3/3 Matryoshka doll.md",
+    "picoCTF-Forensic3/2 WebNet1.md",
+    "picoCTF-Forensic3/1 webnet0.md",
+    "picoCTF-Forensic3",
     "Forensic2/2 White Pages.md",
     "Forensic2/5 shark on wire 2.md",
     "Forensic2/1 m00nwalk.md",
@@ -170,7 +182,6 @@
     "picoCTF-Forensic2/like1000/2.tar",
     "picoCTF-Forensic2/like1000/3.tar",
     "picoCTF-Forensic2/like1000/4.tar",
-    "picoCTF-Forensic2/like1000/5.tar",
     "picoCTF-Forensic2/c0rrupt/3 c0rrupt.md",
     "picoCTF-Forensic2/whitepages/2 White Pages.md",
     "picoCTF-Forensic2/m00nwalk/1 m00nwalk.md",
@@ -189,11 +200,6 @@
     "picoCTF-web-2/4 JaWT Scratchpad.md",
     "picoCTF-web-2/3 Irish-Name-Repo 3.md",
     "picoCTF-web-3/3 Scavenger Hunt.md",
-    "picoCTF-web-3/2 Cookies.md",
-    "picoCTF-web-3/1 GET aHEAD.md",
-    "picoCTF-web-2/1 Irish-Name-Repo 1.md",
-    "Primer-Examen-Parcial/parte1/1 Obedient Cat.md",
-    "MetaRed CTF 2/Discord.md",
-    "picoCTF-web-2/2 Irish-Name-Repo 2.md"
+    "picoCTF-web-3/2 Cookies.md"
   ]
 }
