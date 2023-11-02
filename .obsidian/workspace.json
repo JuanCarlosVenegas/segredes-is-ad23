@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90a992b217cc0b3a",
+        "id": "6d0bc266a156112c",
         "type": "tabs",
         "children": [
           {
-            "id": "6d508bdda261f568",
+            "id": "340100e14477308d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-Forensic3/5 MacroHard WeakEdge.md",
+                "file": "picoCTF-RetosCrypto-Parte1/caesar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-Forensic3/5 MacroHard WeakEdge.md",
+                "file": "picoCTF-RetosCrypto-Parte1/caesar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-Forensic3/5 MacroHard WeakEdge.md",
+                "file": "picoCTF-RetosCrypto-Parte1/caesar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-Forensic3/5 MacroHard WeakEdge.md"
+                "file": "picoCTF-RetosCrypto-Parte1/caesar.md"
               }
             }
           },
@@ -156,10 +156,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6d508bdda261f568",
+  "active": "340100e14477308d",
   "lastOpenFiles": [
-    "picoCTF-Forensic3/4 tunn3lv1s10n.md",
+    "picoCTF-RetosCrypto-Parte1/13.md",
+    "picoCTF-RetosCrypto-Parte1/Tapping.md",
+    "picoCTF-RetosCrypto-Parte1/la cifra de.md",
+    "picoCTF-RetosCrypto-Parte1/Easy1.md",
+    "picoCTF-RetosCrypto-Parte1/caesar.md",
+    "picoCTF-RetosCrypto-Parte1/The Numbers.md",
+    "picoCTF-RetosCrypto-Parte1/waves over lambda.md",
+    "picoCTF-RetosCrypto-Parte1",
     "picoCTF-Forensic3/5 MacroHard WeakEdge.md",
+    "picoCTF-Forensic3/4 tunn3lv1s10n.md",
     "picoCTF-Forensic3/3 Matryoshka doll.md",
     "picoCTF-Forensic3/2 WebNet1.md",
     "picoCTF-Forensic3/1 webnet0.md",
@@ -181,7 +189,6 @@
     "picoCTF-Forensic2/like1000/1.tar",
     "picoCTF-Forensic2/like1000/2.tar",
     "picoCTF-Forensic2/like1000/3.tar",
-    "picoCTF-Forensic2/like1000/4.tar",
     "picoCTF-Forensic2/c0rrupt/3 c0rrupt.md",
     "picoCTF-Forensic2/whitepages/2 White Pages.md",
     "picoCTF-Forensic2/m00nwalk/1 m00nwalk.md",
@@ -192,14 +199,7 @@
     "picoCTF-Forensic/WhatLiesWithin/buildings.png",
     "picoCTF-Forensic/extensios/2 Extensios.md",
     "picoCTF-Forensic/extensios/flag.png",
-    "picoCTF-Forensic/sharkonwire/3 shark on wire 1.md",
-    "picoCTF-Forensic/someta/2 So Meta.md",
-    "picoCTF-Forensic/gloeyofthegarden/1 Glory of the Garden.md",
     "picoCTF-Forensic/someta/pico_img.png",
-    "picoCTF-Forensic/gloeyofthegarden/garden.jpg",
-    "picoCTF-web-2/4 JaWT Scratchpad.md",
-    "picoCTF-web-2/3 Irish-Name-Repo 3.md",
-    "picoCTF-web-3/3 Scavenger Hunt.md",
-    "picoCTF-web-3/2 Cookies.md"
+    "picoCTF-Forensic/gloeyofthegarden/garden.jpg"
   ]
 }

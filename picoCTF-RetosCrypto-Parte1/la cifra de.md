@@ -1,0 +1,30 @@
+## Objetivo
+I found this cipher in an old book. Can you figure out what it says? Connect with `nc jupiter.challenges.picoctf.org 32411`.
+## Solución
+```
+┌──(kali㉿kali)-[~]
+└─$ nc jupiter.challenges.picoctf.org 32411
+Encrypted message:
+Ne iy nytkwpsznyg nth it mtsztcy vjzprj zfzjy rkhpibj nrkitt ltc tnnygy ysee itd tte cxjltk
+
+Ifrosr tnj noawde uk siyyzre, yse Bnretèwp Cousex mls hjpn xjtnbjytki xatd eisjd
+
+Iz bls lfwskqj azycihzeej yz Brftsk ip Volpnèxj ls oy hay tcimnyarqj dkxnrogpd os 1553 my Mnzvgs Mazytszf Merqlsu ny hox moup Wa inqrg ipl. Ynr. Gotgat Gltzndtg Gplrfdo 
+
+Ltc tnj tmvqpmkseaznzn uk ehox nivmpr g ylbrj ts ltcmki my yqtdosr tnj wocjc hgqq ol fy oxitngwj arusahje fuw ln guaaxjytrd catizm tzxbkw zf vqlckx hizm ceyupcz yz tnj fpvjc hgqqpohzCZK{m311a50_0x_a1rn3x3_h1ah3x7g996649}
+
+Ehk ktryy herq-ooizxetypd jjdcxnatoty ol f aordllvmlbkytc inahkw socjgex, bls sfoe gwzuti 1467 my Rjzn Hfetoxea Gqmexyt.
+
+Tnj Gimjyèrk Htpnjc iy ysexjqoxj dosjeisjd cgqwej yse Gqmexyt Doxn ox Fwbkwei Inahkw.
+
+Tn 1508, Ptsatsps Zwttnjxiax tnbjytki ehk xz-cgqwej ylbaql rkhea (g rltxni ol xsilypd gqahggpty) ysaz bzuri wazjc bk f nroytcgq nosuznkse ol yse Bnretèwp Cousex.
+
+Gplrfdo’y xpcuso butvlky lpvjlrki tn 1555 gx l cuseitzltoty ol yse lncsz. Yse rthex mllbjd ol yse gqahggpty fce tth snnqtki cemzwaxqj, bay ehk fwpnfmezx lnj yse osoed qptzjcs gwp mocpd hd xegsd ol f xnkrznoh vee usrgxp, wnnnh ify bk itfljcety hizm paim noxwpsvtydkse.
+
+```
+## Bandera 
+```
+picoCTF{b311a50_0r_v1gn3r3_c1ph3r7b996649}
+```
+## Referencias 
+https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('flag')&input=RW5jcnlwdGVkIG1lc3NhZ2U6Ck5lIGl5IG55dGt3cHN6bnlnIG50aCBpdCBtdHN6dGN5IHZqenByaiB6ZnpqeSBya2hwaWJqIG5ya2l0dCBsdGMgdG5ueWd5IHlzZWUgaXRkIHR0ZSBjeGpsdGsKCklmcm9zciB0bmogbm9hd2RlIHVrIHNpeXl6cmUsIHlzZSBCbnJldMOod3AgQ291c2V4IG1scyBoanBuIHhqdG5ianl0a2kgeGF0ZCBlaXNqZAoKSXogYmxzIGxmd3NrcWogYXp5Y2loemVlaiB5eiBCcmZ0c2sgaXAgVm9scG7DqHhqIGxzIG95IGhheSB0Y2ltbnlhcnFqIGRreG5yb2dwZCBvcyAxNTUzIG15IE1uenZncyBNYXp5dHN6ZiBNZXJxbHN1IG55IGhveCBtb3VwIFdhIGlucXJnIGlwbC4gWW5yLiBHb3RnYXQgR2x0em5kdGcgR3BscmZkbyAKCkx0YyB0bmogdG12cXBta3NlYXpuem4gdWsgZWhveCBuaXZtcHIgZyB5bGJyaiB0cyBsdGNta2kgbXkgeXF0ZG9zciB0bmogd29jamMgaGdxcSBvbCBmeSBveGl0bmd3aiBhcnVzYWhqZSBmdXcgbG4gZ3VhYXhqeXRyZCBjYXRpem0gdHp4Ymt3IHpmIHZxbGNreCBoaXptIGNleXVwY3ogeXogdG5qIGZwdmpjIGhncXFwb2h6Q1pLe20zMTFhNTBfMHhfYTFybjN4M19oMWFoM3g3Zzk5NjY0OX0KCkVoayBrdHJ5eSBoZXJxLW9vaXp4ZXR5cGQgampkY3huYXRvdHkgb2wgZiBhb3JkbGx2bWxia3l0YyBpbmFoa3cgc29jamdleCwgYmxzIHNmb2UgZ3d6dXRpIDE0NjcgbXkgUmp6biBIZmV0b3hlYSBHcW1leHl0LgoKVG5qIEdpbWp5w6hyayBIdHBuamMgaXkgeXNleGpxb3hqIGRvc2plaXNqZCBjZ3F3ZWogeXNlIEdxbWV4eXQgRG94biBveCBGd2Jrd2VpIEluYWhrdy4KClRuIDE1MDgsIFB0c2F0c3BzIFp3dHRuanhpYXggdG5ianl0a2kgZWhrIHh6LWNncXdlaiB5bGJhcWwgcmtoZWEgKGcgcmx0eG5pIG9sIHhzaWx5cGQgZ3FhaGdncHR5KSB5c2F6IGJ6dXJpIHdhempjIGJrIGYgbnJveXRjZ3Egbm9zdXpua3NlIG9sIHlzZSBCbnJldMOod3AgQ291c2V4LgoKR3BscmZkb%2BKAmXkgeHBjdXNvIGJ1dHZsa3kgbHB2amxya2kgdG4gMTU1NSBneCBsIGN1c2VpdHpsdG90eSBvbCB5c2UgbG5jc3ouIFlzZSBydGhleCBtbGxiamQgb2wgeXNlIGdxYWhnZ3B0eSBmY2UgdHRoIHNubnF0a2kgY2VtendheHFqLCBiYXkgZWhrIGZ3cG5mbWV6eCBsbmogeXNlIG9zb2VkIHFwdHpqY3MgZ3dwIG1vY3BkIGhkIHhlZ3NkIG9sIGYgeG5rcnpub2ggdmVlIHVzcmd4cCwgd25ubmggaWZ5IGJrIGl0ZmxqY2V0eSBoaXptIHBhaW0gbm94d3BzdnR5ZGtzZS4K
