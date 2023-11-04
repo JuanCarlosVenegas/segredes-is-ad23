@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "340100e14477308d",
+            "id": "f1941b06249fde2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-RetosCrypto-Parte1/caesar.md",
+                "file": "SegundoExamen/parte 2/St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-RetosCrypto-Parte1/caesar.md",
+                "file": "SegundoExamen/parte 2/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-RetosCrypto-Parte1/caesar.md",
+                "file": "SegundoExamen/parte 2/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-RetosCrypto-Parte1/caesar.md"
+                "file": "SegundoExamen/parte 2/St3g0.md"
               }
             }
           },
@@ -156,48 +156,48 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "340100e14477308d",
+  "active": "f1941b06249fde2f",
   "lastOpenFiles": [
-    "picoCTF-RetosCrypto-Parte1/13.md",
+    "formato.md",
+    "SegundoExamen/parte 2/St3g0.md",
+    "SegundoExamen/parte 2/Redaction gone wrong.md",
+    "SegundoExamen/parte 2/Packets Primer.md",
+    "SegundoExamen/parte 2/Lookey here.md",
+    "SegundoExamen/parte 2/Enhance!.md",
+    "SegundoExamen/parte 2/Wireshark doo dooo do doo....md",
+    "SegundoExamen/parte 2/information.md",
+    "SegundoExamen/parte 1/SQL Direct.md",
+    "SegundoExamen/parte 1/Secrets.md",
+    "SegundoExamen/parte 1/Roboto Sans.md",
+    "SegundoExamen/parte 1/Search source.md",
+    "SegundoExamen/parte 1/Power Cookie.md",
+    "SegundoExamen/parte 1/Local Authority.md",
+    "SegundoExamen/parte 1/Inspect HTML.md",
+    "SegundoExamen/parte 1/include.md",
+    "SegundoExamen/parte 1/Forbidden Paths.md",
     "picoCTF-RetosCrypto-Parte1/Tapping.md",
+    "SegundoExamen/parte 2",
+    "SegundoExamen/parte 1",
+    "Sin título/parte",
+    "Sin título",
+    "SegundoExamen",
     "picoCTF-RetosCrypto-Parte1/la cifra de.md",
     "picoCTF-RetosCrypto-Parte1/Easy1.md",
     "picoCTF-RetosCrypto-Parte1/caesar.md",
+    "picoCTF-RetosCrypto-Parte1/13.md",
     "picoCTF-RetosCrypto-Parte1/The Numbers.md",
     "picoCTF-RetosCrypto-Parte1/waves over lambda.md",
     "picoCTF-RetosCrypto-Parte1",
     "picoCTF-Forensic3/5 MacroHard WeakEdge.md",
     "picoCTF-Forensic3/4 tunn3lv1s10n.md",
-    "picoCTF-Forensic3/3 Matryoshka doll.md",
-    "picoCTF-Forensic3/2 WebNet1.md",
-    "picoCTF-Forensic3/1 webnet0.md",
     "picoCTF-Forensic3",
-    "Forensic2/2 White Pages.md",
-    "Forensic2/5 shark on wire 2.md",
-    "Forensic2/1 m00nwalk.md",
-    "Forensic2/4 like1000.md",
-    "picoCTF-Forensic2/like1000/3 c0rrupt.md",
-    "Forensic2/3 c0rrupt.md",
     "Forensic2",
     "picoCTF-Forensic2/sharkonwire2/exp.py",
-    "picoCTF-Forensic2/sharkonwire2/5 shark on wire 2.md",
-    "picoCTF-Forensic2/like1000/4 like1000.md",
     "picoCTF-Forensic2/sharkonwire2/capture.pcap",
-    "picoCTF-Forensic2/Sin título",
-    "picoCTF-Forensic2/sharkonwire2",
     "picoCTF-Forensic2/like1000/flag.png",
-    "picoCTF-Forensic2/like1000/1.tar",
-    "picoCTF-Forensic2/like1000/2.tar",
-    "picoCTF-Forensic2/like1000/3.tar",
-    "picoCTF-Forensic2/c0rrupt/3 c0rrupt.md",
-    "picoCTF-Forensic2/whitepages/2 White Pages.md",
-    "picoCTF-Forensic2/m00nwalk/1 m00nwalk.md",
     "picoCTF-Forensic2/m00nwalk/result.png",
     "picoCTF-Forensic2/m00nwalk/opt/sstv/examples/m1.png",
-    "picoCTF-Forensic2/m00nwalk/opt/sstv/README.md",
-    "picoCTF-Forensic/WhatLiesWithin/5 What Lies Within.md",
     "picoCTF-Forensic/WhatLiesWithin/buildings.png",
-    "picoCTF-Forensic/extensios/2 Extensios.md",
     "picoCTF-Forensic/extensios/flag.png",
     "picoCTF-Forensic/someta/pico_img.png",
     "picoCTF-Forensic/gloeyofthegarden/garden.jpg"
