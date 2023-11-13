@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78a865d8c0a1ae9e",
+        "id": "779b8571dbe21dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "21437c58d8576db5",
+            "id": "91aed1033e90963b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-RetosReversing-Parte1/vault-door-5.md",
+                "file": "picoCTF-RetosReversing-Parte2/asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-RetosReversing-Parte1/vault-door-5.md",
+                "file": "picoCTF-RetosReversing-Parte2/asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-RetosReversing-Parte1/vault-door-5.md",
+                "file": "picoCTF-RetosReversing-Parte2/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-RetosReversing-Parte1/vault-door-5.md"
+                "file": "picoCTF-RetosReversing-Parte2/asm3.md"
               }
             }
           },
@@ -156,15 +156,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "21437c58d8576db5",
+  "active": "91aed1033e90963b",
   "lastOpenFiles": [
+    "picoCTF-RetosReversing-Parte2/asm2.md",
+    "picoCTF-RetosReversing-Parte2/asm1.md",
+    "picoCTF-RetosReversing-Parte2/asm3.md",
+    "formato.md",
+    "picoCTF-RetosReversing-Parte1/vault-door-5.md",
+    "picoCTF-RetosReversing-Parte2",
     "picoCTF-RetosReversing-Parte1/vault-door-4.md",
     "picoCTF-RetosReversing-Parte1/vault-door-3.md",
     "picoCTF-RetosReversing-Parte1/vault-door-training.md",
     "picoCTF-RetosReversing-Parte1/vault-door-1.md",
     "reverseP1",
-    "picoCTF-RetosReversing-Parte1/vault-door-5.md",
-    "formato.md",
     "picoCTF-RetosCrypto-Parte3/Mind your Ps and Qs.md",
     "picoCTF-RetosReversing-Parte1",
     "picoCTF-RetosCrypto-Parte2/rsa-pop-quiz.md",
@@ -191,11 +195,8 @@
     "cryptor3/values",
     "cryptor3",
     "picoCTF-RetosCrypto-Parte3",
-    "picoCTF-RetosCrypto-Parte2",
     "SegundoExamen/parte 2/St3g0.md",
     "SegundoExamen/parte 2/Redaction gone wrong.md",
-    "SegundoExamen/parte 2/Packets Primer.md",
-    "SegundoExamen/parte 2/Lookey here.md",
     "picoCTF-Forensic2/like1000/flag.png",
     "picoCTF-Forensic2/m00nwalk/result.png",
     "picoCTF-Forensic2/m00nwalk/opt/sstv/examples/m1.png",
