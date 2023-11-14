@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-RetosReversing-Parte2/asm3.md",
+                "file": "picoCTF-RetosReversing-Parte3/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-RetosReversing-Parte2/asm3.md",
+                "file": "picoCTF-RetosReversing-Parte3/Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-RetosReversing-Parte2/asm3.md",
+                "file": "picoCTF-RetosReversing-Parte3/Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-RetosReversing-Parte2/asm3.md"
+                "file": "picoCTF-RetosReversing-Parte3/Safe Opener 2.md"
               }
             }
           },
@@ -158,10 +158,15 @@
   },
   "active": "91aed1033e90963b",
   "lastOpenFiles": [
+    "picoCTF-RetosReversing-Parte3/reverse_cipher.md",
+    "picoCTF-RetosReversing-Parte3/Need For Speed.md",
+    "picoCTF-RetosReversing-Parte3/GDB Test Drive.md",
+    "picoCTF-RetosReversing-Parte3/Safe Opener 2.md",
+    "formato.md",
+    "picoCTF-RetosReversing-Parte2/asm3.md",
+    "picoCTF-RetosReversing-Parte3",
     "picoCTF-RetosReversing-Parte2/asm2.md",
     "picoCTF-RetosReversing-Parte2/asm1.md",
-    "picoCTF-RetosReversing-Parte2/asm3.md",
-    "formato.md",
     "picoCTF-RetosReversing-Parte1/vault-door-5.md",
     "picoCTF-RetosReversing-Parte2",
     "picoCTF-RetosReversing-Parte1/vault-door-4.md",
@@ -183,20 +188,15 @@
     "picoCTF-RetosCrypto-Parte1/13.md",
     "picoCTF-RetosCrypto-Parte3/ReadMyCert.md",
     "picoCTF-RetosCrypto-Parte3/HideToSee.md",
-    "picoCTF-RetosCrypto-Parte3/basic-mod1.md",
     "cryptor3/message.txt.1",
     "cryptor3/basic-mod1",
     "cryptor3/message.txt",
-    "picoCTF-RetosCrypto-Parte3/Pixelated.md",
     "cryptor3/nueva.png",
     "cryptor3/exp.py",
     "cryptor3/scrambled2.png",
     "cryptor3/scrambled1.png",
     "cryptor3/values",
     "cryptor3",
-    "picoCTF-RetosCrypto-Parte3",
-    "SegundoExamen/parte 2/St3g0.md",
-    "SegundoExamen/parte 2/Redaction gone wrong.md",
     "picoCTF-Forensic2/like1000/flag.png",
     "picoCTF-Forensic2/m00nwalk/result.png",
     "picoCTF-Forensic2/m00nwalk/opt/sstv/examples/m1.png",
